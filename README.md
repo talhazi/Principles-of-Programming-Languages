@@ -11,12 +11,12 @@ The course provides an understanding of the principles of programming languages,
 
 
 ## The Assignments
-[Assignment 1: Basic functional coding in Typescript](https://www.cs.bgu.ac.il/~ppl212/Main)
+[Assignment 1: Basic functional coding in Typescript](https://github.com/talhazi/Principles-of-Programming-Languages/blob/main/The%20Assignments/PPL_2021_Assignment_1.pdf)
 
-[Assignment 2: Expanding the AST, syntactic trasnformations](https://www.cs.bgu.ac.il/~ppl212/Main)
+[Assignment 2: Expanding the AST, syntactic trasnformations](https://github.com/talhazi/Principles-of-Programming-Languages/blob/main/The%20Assignments/PPL_2021_Assignment_2.pdf)
 
-[Assignment 3: Creating a new AST, enviroment-based evaluation](https://www.cs.bgu.ac.il/~ppl212/Main)
+[Assignment 3: Creating a new AST, enviroment-based evaluation](https://github.com/talhazi/Principles-of-Programming-Languages/blob/main/The%20Assignments/PPL_2021_Assignment_3.pdf)
 
-[Assignment 4: Expanding the type checker, control structures in JS](https://www.cs.bgu.ac.il/~ppl212/Main)
+[Assignment 4: Expanding the type checker, control structures in JS](https://github.com/talhazi/Principles-of-Programming-Languages/blob/main/The%20Assignments/PPL_2021_Assignment_4.pdf)
 
-[Assignment 5: Lazy lists, CPS and intro to prolog](https://www.cs.bgu.ac.il/~ppl212/Main)
+[Assignment 5: Lazy lists, CPS and intro to prolog](https://github.com/talhazi/Principles-of-Programming-Languages/blob/main/The%20Assignments/PPL_2021_Assignment_5.pdf)
